@@ -7,6 +7,7 @@ export default function Home() {
    <>
    <Navbar />
    <Landing />
+   <h1>TEsting commit</h1>
  
 
    </>
